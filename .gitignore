@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost
+catboost_info/
+
+# macOS
+.DS_Store
