@@ -229,3 +229,4 @@ catboost_info/
 
 # macOS
 .DS_Store
+notebook/catboost_info/
